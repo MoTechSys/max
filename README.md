@@ -38,6 +38,7 @@
 | [prompt_templates.md](guides/manus-usage/prompt_templates.md) | قوالب Prompts عامة للمهام المختلفة |
 | [secrets_and_tricks.md](guides/manus-usage/secrets_and_tricks.md) | أسرار وحيل للمستخدمين المحترفين |
 | [cheat_sheet.md](guides/manus-usage/cheat_sheet.md) | ورقة مرجعية سريعة للأوامر |
+| [MANUS_AI_COMPLETE_GUIDE.md](guides/manus-usage/MANUS_AI_COMPLETE_GUIDE.md) | **🔥 الدليل الشامل والدقيق - جميع القدرات والأسرار المخفية** |
 
 ---
 
